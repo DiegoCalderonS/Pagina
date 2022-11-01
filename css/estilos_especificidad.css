@@ -1,0 +1,19 @@
+button{
+    background-color: aqua;
+}
+
+.btn-clase{
+    background-color: green;
+}
+
+#btn-id{
+    background-color: blue;
+}
+
+.clase-menu .clase-valor{
+    background-color: rgb(205, 239, 11);
+}
+
+[name="btn-comprar"]{
+    background-color: darksalmon;
+}
